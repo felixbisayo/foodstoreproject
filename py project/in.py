@@ -1,3 +1,5 @@
+#this file was used to insert the menu options initially, think of it as the admins inserting the possible options at first
+
 import sqlite3
 
 con = sqlite3.connect("MELIZZA STORES INVENTORY.db")
