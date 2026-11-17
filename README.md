@@ -1,48 +1,55 @@
-Online Food Store Simulation................
+# Online Food Store Simulation
 
-A simple Python-based online food store simulation developed as a group project. The application simulates the basic operations of an online food ordering system, allowing users to browse available food items, select products, place orders, and manage their purchases.
+A simple Python-based online food store simulation developed as a group project during Python programming training.
 
-Project Overview.....
+The application demonstrates the basic operations of an online food ordering system, allowing users to browse available food items, select products, specify quantities, place orders, and calculate purchase totals.
 
-This project was created to demonstrate the practical application of Python programming concepts in building a simple food ordering system.
+## Features
 
-The simulation focuses on the basic flow of an online food store, from viewing available products to selecting items and completing an order.
+- View available food items
+- Display food prices
+- Select food items
+- Specify product quantities
+- Calculate order totals
+- Place food orders
+- Manage items within an order
+- Interactive command-line interface
 
-Features......................
+## Technologies Used
 
-* View available food items
-* Display food prices
-* Select food items
-* Specify quantities
-* Calculate order totals
-* Place food orders
-* Manage items in an order
-* Basic user interaction through the command line
-  
-Technologies Used...................
+- Python
+- Lists and other built-in data structures
+- Functions
+- Conditional statements
+- Loops
+- User input and output
 
-* Python
-* Python built-in data structures
-* Conditional statements
-* Loops
-* Functions
-* User input and output
+## Project Overview
 
+The project simulates the fundamental workflow of an online food store, from displaying available products to selecting items and completing an order.
 
-What I Learned.................
+It was developed to demonstrate how Python programming concepts can be applied to a practical ordering scenario.
 
-Working on this project helped me gain practical experience with:
+## What I Learned
 
-* Writing Python programs
-* Using functions to organize code
-* Working with lists and other data structures
-* Using loops and conditional statements
-* Handling user input
-* Implementing basic ordering logic
-* Working as part of a development team
-* Applying programming concepts to a real-world scenario
+Through this project, I gained practical experience in:
 
+- Writing and organizing Python programs
+- Using functions to structure code
+- Working with lists and data structures
+- Implementing loops and conditional logic
+- Handling user input
+- Developing basic ordering and calculation logic
+- Collaborating on a group software project
 
+## Project Type
 
-This was developed as a **group project** as part of my Python programming training.
-This project was created for educational purposes.
+Academic / Group Project
+
+Developed as part of Python programming training.
+
+---
+
+**Author:** Bisayo Felix
+
+**Language:** Python
